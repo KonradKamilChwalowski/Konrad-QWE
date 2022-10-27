@@ -1,7 +1,7 @@
 *, *::before, *::after{
     box-sizing: border-box;
     font-family: Gotham Rounded; /*Tu wybieram czcionkę*/
-    font-size:x-large; /*Rozmiar czcionki*/
+    font-size:xx-large; /*Rozmiar czcionki*/
 }
 
 body {
